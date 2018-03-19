@@ -20,4 +20,5 @@ public class OperateursApp {
 		 	System.out.println(nombre_1 + "/" + nombre_2 + "=" + (nombre_1 / nombre_2));
 		 	System.out.println(nombre_1 + "%" + nombre_2 + "=" + (nombre_1 % nombre_2));
 	    }
+	 
 }
